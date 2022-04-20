@@ -7,7 +7,8 @@ void setup() {
 	size(640, 480, P2D);
 	// Enter Your Setup Code Here
 	  b = loadImage("img/title.jpg");
-  
+  	   c = loadImage("img/startNormal.png");
+    d = loadImage("img/restartNormal.png");
 }
 
 void draw() {
